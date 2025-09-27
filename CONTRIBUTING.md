@@ -1,5 +1,16 @@
-1) Fork This
-2) Clone To Your Github Profile
-3) Make Changes
-4) Make A Pull Request
-5) You're Done ! You Will Added To here within 2-3 days .
+---
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feat/YourFeature`)
+3. Commit your changes (`git commit -m 'Add feature'`)
+4. Push to your branch (`git push origin feat/YourFeature`)
+5. Open a Pull Request
+
+Please follow best practices and include descriptive commit messages.
+
+---
